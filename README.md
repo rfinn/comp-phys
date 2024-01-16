@@ -1,6 +1,6 @@
-# Computational Physics PHYS250 at Siena College
+# Computational Physics PHYS250
 
-This is a python-based course on computational physics.  
+This is a python-based course on computational physics at Siena College.  The course is typically taken by sophomore physics, astrophysics, and applied physics majors.
 
 ### Pre-Requisites:
 * General Physics I and II
