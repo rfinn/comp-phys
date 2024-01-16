@@ -3,8 +3,9 @@
 This is a python-based course on computational physics at Siena College.  The course is typically taken by sophomore physics, astrophysics, and applied physics majors.
 
 ### Pre-Requisites:
-* General Physics I and II
-* Prior coding course, such as Exploratory Data Analysis and Visualization
+* General Physics I
+* Calculus I
+* Prior coding course, such as Exploratory Data Analysis and Visualization (SCDV 110) or CSIS 110
 
 ### Textbook
 
