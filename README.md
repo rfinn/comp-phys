@@ -44,7 +44,7 @@ The course will consist of brief lectures, discussion, and collaborative, learne
 |Euler-Cromer: Planetary Motion | 1 | 4|
 |Numerical Integration | 1| Append E |
 |Discrete Fourier Transforms | 2 | Append C|
-|Random Walk and Monte Carlo | 1.5 | Append F |
+|Random Walk and Monte Carlo | 1.5 | 7, Append F |
 |Final Projects | 1.5 | Misc|
 
 
