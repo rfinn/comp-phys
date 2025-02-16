@@ -39,12 +39,12 @@ The course will consist of brief lectures, discussion, and collaborative, learne
 |---|---|--|
 |Review of python basics | 1.5 |NA|
 | Visualization | 1 |NA|
-| Euler method: radioactive decay, 1D air resistance | 2 | 1, 2, Appendix A|
-|Euler-Cromer: SHM and Chaos | 1| 3|
-|Euler-Cromer: Planetary Motion | 1 | 4|
+| Euler method: radioactive decay, 1D air resistance | 2 | 1 all, 2.1-2.2, Appendix A|
+|Euler-Cromer: SHM and Chaos | 1| 3.1-3.3|
+|Euler-Cromer: Planetary Motion | 1 | 4.1-4.2, 4.4|
 |Numerical Integration | 1| Appendix E |
 |Discrete Fourier Transforms | 2 | Appendix C|
-|Random Walk and Monte Carlo | 1.5 | 7, Appendix F |
+|Random Walk and Monte Carlo | 1.5 | 7.1-2, 7.4-5, Appendix F |
 |Final Projects | 1.5 | Misc|
 
 
