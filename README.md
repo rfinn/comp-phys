@@ -19,7 +19,7 @@ The course will consist of brief lectures, discussion, and collaborative, learne
 | BEFORE CLASS |DURING CLASS | AFTER CLASS|
 |----|----|----|
 |watch video lecture or complete a reading | brief lecture | finish in-class assignment/lab|
-|answer questions in a canvas quiz | activities/labs| wikis |
+|answer questions in a canvas quiz | activities/labs| write wikis |
 | | coding practice | projects |
 
 
