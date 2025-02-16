@@ -33,6 +33,20 @@ The course will consist of brief lectures, discussion, and collaborative, learne
 |Final Project |This will be an individual project on a topic of your choosing.  More details to follow!|
 |Final Exam |This will be a cumulative exam that will include both a written and coding component.  For the final exam, students will be allowed to bring an 8.5 by 11 inch sheet of paper containing any information they please, using both sides.|
 
+### Schedule
+
+| Topic | Number of Weeks|
+|---|---|
+|Review of python basics | 1.5 |
+| Visualization | 1 |
+| Euler method: air resistance | 2 |
+|Euler-Cromer: SHM, planetary motion | 2|
+|Numerical Integration | 1|
+|Discrete Fourier Transforms | 2 |
+|Random Walk and Monte Carlo | 1.5 |
+|Final Projects | 1.5 |
+
+
 
 
 
