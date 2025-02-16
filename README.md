@@ -1,5 +1,5 @@
 # Computational Physics PHYS250
-This is a python-based course on computational physics at Siena College.  The course is typically taken by sophomore physics, astrophysics, and applied physics majors.
+This is a python-based course on computational physics at Siena College.  The course is typically taken by sophomore physics, astrophysics, and applied physics majors.  Our department has decided to offer this course to younger students (fewer pre-reqs) so that they can use the skills they develop in other classes.
 
 ### Description
 Methods of computer simulation and its diverse applications are introduced. The course is project-oriented; projects include the motion of massive and charged particles, chaotic systems, and random systems. Methods include the numerical solution of differential equations, fast Fourier transforms, and Monte Carlo techniques.
