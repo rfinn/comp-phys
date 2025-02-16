@@ -1,5 +1,5 @@
 # Computational Physics PHYS250
-This is a python-based course on computational physics at Siena College.  The course is typically taken by sophomore physics, astrophysics, and applied physics majors.
+This is a python-based course on computational physics at Siena College.  The course is typically taken by sophomore physics, astrophysics, and applied physics majors.  Our department has decided to offer this course to younger students (fewer pre-reqs) so that they can use the skills they develop in other classes.
 
 ### Description
 Methods of computer simulation and its diverse applications are introduced. The course is project-oriented; projects include the motion of massive and charged particles, chaotic systems, and random systems. Methods include the numerical solution of differential equations, fast Fourier transforms, and Monte Carlo techniques.
@@ -11,7 +11,7 @@ Methods of computer simulation and its diverse applications are introduced. The 
 
 ### Textbook
 
-The course will follow the Giordano and Nakanishi text <a href="https://www.amazon.com/Computational-Physics-2nd-Nicholas-Giordano/dp/0131469908/ref=sr_1_1?crid=31LQTIQX0BT9E&dib=eyJ2IjoiMSJ9.DSpnoqQkRxfPKnzuDtT8Fw.-uvMcXXQ5tML_bClDktxhosxYzx4E3Lx8nJ9KYlhBdg&dib_tag=se&keywords=giordano+nakanishi&qid=1739722359&sprefix=giordano+nakanishi">*Computational Physics*, 2nd edition</a>.
+The course will follow parts of the Giordano and Nakanishi text <a href="https://www.amazon.com/Computational-Physics-2nd-Nicholas-Giordano/dp/0131469908/ref=sr_1_1?crid=31LQTIQX0BT9E&dib=eyJ2IjoiMSJ9.DSpnoqQkRxfPKnzuDtT8Fw.-uvMcXXQ5tML_bClDktxhosxYzx4E3Lx8nJ9KYlhBdg&dib_tag=se&keywords=giordano+nakanishi&qid=1739722359&sprefix=giordano+nakanishi">*Computational Physics*, 2nd edition</a>.
 
 ### Course Format
 The course will consist of brief lectures, discussion, and collaborative, learner-centered classroom activities designed to engage you actively in the learning process.  There will also be many in-class opportunities to practice both the physics and the computational techniques.
@@ -32,6 +32,21 @@ The course will consist of brief lectures, discussion, and collaborative, learne
 |Midterm Exam |This will consist of an in-class written portion as well as a coding portion that will be done during class.|
 |Final Project |This will be an individual project on a topic of your choosing.  More details to follow!|
 |Final Exam |This will be a cumulative exam that will include both a written and coding component.  For the final exam, students will be allowed to bring an 8.5 by 11 inch sheet of paper containing any information they please, using both sides.|
+
+### Schedule
+
+| Topic | Number of Weeks| Chapter |
+|---|---|--|
+|Review of python basics | 1.5 |NA|
+| Visualization | 1 |NA|
+| Euler method: radioactive decay, 1D air resistance | 2 | 1 all, 2.1-2.2, Appendix A|
+|Euler-Cromer: SHM and Chaos | 1| 3.1-3.3|
+|Euler-Cromer: Planetary Motion | 1 | 4.1-4.2, 4.4|
+|Numerical Integration | 1| Appendix E |
+|Discrete Fourier Transforms | 2 | Appendix C|
+|Random Walk and Monte Carlo | 1.5 | 7.1-2, 7.4-5, Appendix F |
+|Final Projects | 1.5 | Misc|
+
 
 
 
