@@ -22,6 +22,14 @@ The course will consist of brief lectures, discussion, and collaborative, learne
 |answer questions in a canvas quiz | activities/labs| write wikis |
 | | coding practice | projects |
 
+### Grade Components
+
+* Homework & In-Class Activities—A variety of homework will be assigned approximately once per week in order to help reinforce the material we discuss in class.  In addition, I will give occasional quizzes to make sure you are building competence.  Late homework submissions will not be accepted without prior approval from the instructor.  
+* Activities & Labs—We will start shorter activities and longer labs during class time.  You will often need to finish these outside of class. 
+* Midterm Project—This will be an individual project that you will complete over the course of several weeks.
+* Midterm Exam—This will consist of an in-class written portion as well as a coding portion that will be done during class.
+* Final Project—This will be an individual project on a topic of your choosing.  More details to follow!
+* Final Exam—This will be a cumulative exam that will include both a written and coding component.  For the final exam, students will be allowed to bring an 8.5 by 11 inch sheet of paper containing any information they please, using both sides.
 
 
 
