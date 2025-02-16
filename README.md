@@ -11,7 +11,7 @@ Methods of computer simulation and its diverse applications are introduced. The 
 
 ### Textbook
 
-The course will follow the Giordano and Nakanishi text <a href="https://www.amazon.com/Computational-Physics-2nd-Nicholas-Giordano/dp/0131469908/ref=sr_1_1?crid=31LQTIQX0BT9E&dib=eyJ2IjoiMSJ9.DSpnoqQkRxfPKnzuDtT8Fw.-uvMcXXQ5tML_bClDktxhosxYzx4E3Lx8nJ9KYlhBdg&dib_tag=se&keywords=giordano+nakanishi&qid=1739722359&sprefix=giordano+nakanishi">*Computational Physics*, 2nd edition</a>.
+The course will follow parts of the Giordano and Nakanishi text <a href="https://www.amazon.com/Computational-Physics-2nd-Nicholas-Giordano/dp/0131469908/ref=sr_1_1?crid=31LQTIQX0BT9E&dib=eyJ2IjoiMSJ9.DSpnoqQkRxfPKnzuDtT8Fw.-uvMcXXQ5tML_bClDktxhosxYzx4E3Lx8nJ9KYlhBdg&dib_tag=se&keywords=giordano+nakanishi&qid=1739722359&sprefix=giordano+nakanishi">*Computational Physics*, 2nd edition</a>.
 
 ### Course Format
 The course will consist of brief lectures, discussion, and collaborative, learner-centered classroom activities designed to engage you actively in the learning process.  There will also be many in-class opportunities to practice both the physics and the computational techniques.
@@ -35,16 +35,17 @@ The course will consist of brief lectures, discussion, and collaborative, learne
 
 ### Schedule
 
-| Topic | Number of Weeks|
-|---|---|
-|Review of python basics | 1.5 |
-| Visualization | 1 |
-| Euler method: air resistance | 2 |
-|Euler-Cromer: SHM, planetary motion | 2|
-|Numerical Integration | 1|
-|Discrete Fourier Transforms | 2 |
-|Random Walk and Monte Carlo | 1.5 |
-|Final Projects | 1.5 |
+| Topic | Number of Weeks| Chapter |
+|---|---|--|
+|Review of python basics | 1.5 |NA|
+| Visualization | 1 |NA|
+| Euler method: radioactive decay, 1D air resistance | 2 | 1, 2, Append A|
+|Euler-Cromer: SHM and Chaos | 1| 3|
+|Euler-Cromer: Planetary Motion | 1 | 4|
+|Numerical Integration | 1| Append E |
+|Discrete Fourier Transforms | 2 | Append C|
+|Random Walk and Monte Carlo | 1.5 | Append F |
+|Final Projects | 1.5 | Misc|
 
 
 
